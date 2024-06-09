@@ -6,7 +6,7 @@
 - Trabalhei por 12 anos no setor de Segurança Eletrônica (instalação e manutenção).
 - 7 anos como Analista de Infraestrutura de Redes e Suporte ao Usuário(Exército).
 - Trabalhava com manutenção da rede voz(Pabx Digital) e dados(ativos de rede)
-- Manutenção em sistemas virtualizados com Hyper-V(com sistemas operacionais Linux e Windows , aplicações web com o LAMP, WAMP e uma aplicação java em host linux)
+- Manutenção em sistemas virtualizados com Xem Server(com sistemas operacionais Linux e Windows , aplicações web com o LAMP, WAMP e uma aplicação java em host linux)
 - Comecei agora em junho de 2024 um transição de carreira para área de programação, devido a uma necessidade pessoal, para ficar mais próximo da minha família e seguir uma carreira sólida como desenvolvedor Java.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidalsuporte/)  	[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532991203111)  	[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vidalsuporte@gmail.com)
